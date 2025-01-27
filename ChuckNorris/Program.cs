@@ -5,7 +5,7 @@
 
 class Program{
 
-static async void GetJoke(){
+static async Task GetJoke(){
 using(HttpClient kalle = new HttpClient()){
 
  kalle.BaseAddress = new Uri ("https://api.chucknorris.io");
@@ -23,7 +23,7 @@ catch(HttpRequestException e){
 }
 }
 static void Main(){
-    
+
 GetJoke();
 
 

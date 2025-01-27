@@ -12,3 +12,4 @@ C:\Users\li5236\OneDrive - LYSTKOM\C#\hämta data från chuck norris\ChuckNorris
 C:\Users\li5236\OneDrive - LYSTKOM\C#\hämta data från chuck norris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.pdb
 C:\Users\li5236\OneDrive - LYSTKOM\C#\hämta data från chuck norris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.genruntimeconfig.cache
 C:\Users\li5236\OneDrive - LYSTKOM\C#\hämta data från chuck norris\ChuckNorris\obj\Debug\net8.0\ref\ChuckNorris.dll
+C:\Users\li5236\OneDrive - LYSTKOM\C#\hämta data från chuck norris\ChuckNorris\obj\Debug\net8.0\ChuckNorris.sourcelink.json
